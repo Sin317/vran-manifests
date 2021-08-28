@@ -13,7 +13,7 @@ spec:
     name: ''
     #namespace: ''
     #server: 'https://9.42.98.154:6443'
-    server: 'https://api.aiops-cluster.rtp.raleigh.ibm.com:6443'
+    server: 'https://9.42.98.154:6443'
   # Source of the application manifests
   source:
     repoURL: 'https://github.com/Sin317/vran-manifests.git'
